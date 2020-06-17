@@ -1,0 +1,11 @@
+C:\Users\Andy\source\repos\semana6\semana6\bin\Debug\netcoreapp2.1\semana6.deps.json
+C:\Users\Andy\source\repos\semana6\semana6\bin\Debug\netcoreapp2.1\semana6.runtimeconfig.json
+C:\Users\Andy\source\repos\semana6\semana6\bin\Debug\netcoreapp2.1\semana6.runtimeconfig.dev.json
+C:\Users\Andy\source\repos\semana6\semana6\bin\Debug\netcoreapp2.1\semana6.dll
+C:\Users\Andy\source\repos\semana6\semana6\bin\Debug\netcoreapp2.1\semana6.pdb
+C:\Users\Andy\source\repos\semana6\semana6\obj\Debug\netcoreapp2.1\semana6.csprojAssemblyReference.cache
+C:\Users\Andy\source\repos\semana6\semana6\obj\Debug\netcoreapp2.1\semana6.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\semana6\semana6\obj\Debug\netcoreapp2.1\semana6.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\semana6\semana6\obj\Debug\netcoreapp2.1\semana6.AssemblyInfo.cs
+C:\Users\Andy\source\repos\semana6\semana6\obj\Debug\netcoreapp2.1\semana6.dll
+C:\Users\Andy\source\repos\semana6\semana6\obj\Debug\netcoreapp2.1\semana6.pdb
